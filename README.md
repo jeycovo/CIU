@@ -5,8 +5,11 @@ Autor: Jacobo Placeres Cabrera
   El trabajo resultante consiste en un pequeño juego de Pong, donde como se indica en la escena inicial, uno debe ganar a PongMaster, el maestro del Ping Pong, y marcarle al menos 3 goles, en el caso de que uno gane o pierda, el juego salta a otra pantalla donde se le muestra un texto que dependera del resultado (victoria o derrota) y se le dará la posibilidad de volver a jugar contra PongMaster.
   
   -La pelota rebota en las paredes superiores e inferiores y en las raquetas.
+  
   -El marcador que se muestra en la parte superior se actualiza solo con cada gol.
+  
   -Los goles reinician el punto, dejando la pelota en el medio.
+  
   -Los goles y golpes de las raquetas tienen sonido propio.
   
 # Decisiones:
