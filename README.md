@@ -20,6 +20,14 @@ Autor: Jacobo Placeres Cabrera
   3. La velocidad de seguimiento del rival tuvo que ser reducida porque alcanzaba la pelota en el 95% de los casos.
   4. Cambie un timer que empleaba la función seconds() por uno que decrementa su valor con cada ciclo ya que este daba mejor resultado.
 
+# Gif demostracion:
+![](demostracion-PongMaster.gif)
+
 # Referencias:
   Para los sonidos he empleado esta página, indicada en el guion de la práctica.
 https://freewavesamples.com/
+
+# Notas:
+ Los ficheros de audio deben ser almacenados en la misma carpeta que el programa.
+ 
+
